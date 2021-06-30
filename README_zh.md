@@ -10,7 +10,7 @@
 
 [English](README.md) | **中文**
 
-> 描述
+> nerd-font-JetBrains-windows
 
 ## 下载
 
