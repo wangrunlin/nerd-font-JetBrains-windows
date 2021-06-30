@@ -1,8 +1,5 @@
 <h1 align="center">欢迎来到 nerd-font-JetBrains-windows 👋</h1>
 <p>
-  <a href="https://runlin-wang.github.io/nerd-font-JetBrains-windows" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
   <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -14,10 +11,6 @@
 [English](README.md) | **中文**
 
 > 描述
-
-### 🏠 [主页](https://runlin-wang.github.io/nerd-font-JetBrains-windows)
-
-### ✨ [演示](https://runlin-wang.github.io/nerd-font-JetBrains-windows)
 
 ## 下载
 
@@ -34,7 +27,7 @@ git clone https://github.com/runlin-wang/nerd-font-JetBrains-windows.git
 
 👤 **leo**
 
-* 网站: runlin.live
+* 网站: https://runlin.live
 * 推特: [@Leo36363824](https://twitter.com/Leo36363824)
 * Github: [@runlin-wang](https://github.com/runlin-wang)
 

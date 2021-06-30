@@ -10,11 +10,7 @@
 
 **English** | [中文](README_zh.md)
 
-> description
-
-### 🏠 [Homepage](https://runlin-wang.github.io/nerd-font-JetBrains-windows)
-
-### ✨ [Demo](https://runlin-wang.github.io/nerd-font-JetBrains-windows)
+> nerd-font-JetBrains-windows
 
 ## Install
 
@@ -31,7 +27,7 @@ Install these fonts to your Windows system.
 
 👤 **leo**
 
-* Website: runlin.live
+* Website: https://runlin.live
 * Twitter: [@Leo36363824](https://twitter.com/Leo36363824)
 * Github: [@runlin-wang](https://github.com/runlin-wang)
 
