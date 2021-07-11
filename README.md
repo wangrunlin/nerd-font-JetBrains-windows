@@ -15,25 +15,25 @@
 ## Install
 
 ```sh
-git clone https://github.com/runlin-wang/nerd-font-JetBrains-windows.git
+git clone https://github.com/wangrunlin/nerd-font-JetBrains-windows.git
 ```
 
 ## Usage
 
-[download](https://github.com/runlin-wang/nerd-font-JetBrains-windows/releases)  
+[download](https://github.com/wangrunlin/nerd-font-JetBrains-windows/releases)  
 Install these fonts to your Windows system.
 
 ## Author
 
 👤 **leo**
 
-* Website: https://runlin.live
+* Website: https://wangrunlin.com
 * Twitter: [@Leo36363824](https://twitter.com/Leo36363824)
-* Github: [@runlin-wang](https://github.com/runlin-wang)
+* Github: [@wangrunlin](https://github.com/wangrunlin)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/runlin-wang/nerd-font-JetBrains-windows/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/wangrunlin/nerd-font-JetBrains-windows/issues). 
 
 ## Show your support
 
@@ -41,7 +41,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [leo](https://github.com/runlin-wang).<br />
+Copyright © 2021 [leo](https://github.com/wangrunlin).<br />
 This project is [MIT](LICENSE) licensed.
 
 ***

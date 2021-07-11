@@ -15,25 +15,25 @@
 ## 下载
 
 ```sh
-git clone https://github.com/runlin-wang/nerd-font-JetBrains-windows.git
+git clone https://github.com/wangrunlin/nerd-font-JetBrains-windows.git
 ```
 
 ## 使用
 
-[下载](https://github.com/runlin-wang/nerd-font-JetBrains-windows/releases)  
+[下载](https://github.com/wangrunlin/nerd-font-JetBrains-windows/releases)  
 安装这些字体到你的 Windows 系统。
 
 ## 作者
 
 👤 **leo**
 
-* 网站: https://runlin.live
+* 网站: https://wangrunlin.com
 * 推特: [@Leo36363824](https://twitter.com/Leo36363824)
-* Github: [@runlin-wang](https://github.com/runlin-wang)
+* Github: [@wangrunlin](https://github.com/wangrunlin)
 
 ## 🤝 贡献
 
-欢迎贡献，问题和特征要求！<br />随时检查 [问题页面](https://github.com/runlin-wang/nerd-font-JetBrains-windows/issues) 。
+欢迎贡献，问题和特征要求！<br />随时检查 [问题页面](https://github.com/wangrunlin/nerd-font-JetBrains-windows/issues) 。
 
 ## 显示您的支持
 
@@ -41,7 +41,7 @@ git clone https://github.com/runlin-wang/nerd-font-JetBrains-windows.git
 
 ## 📝 许可协议
 
-Copyright © 2021 [leo](https://github.com/runlin-wang).<br />
+Copyright © 2021 [leo](https://github.com/wangrunlin).<br />
 这个项目是 [MIT](LICENSE) 许可。
 
 ***
