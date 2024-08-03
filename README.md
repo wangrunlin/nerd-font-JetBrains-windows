@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to nerd-font-JetBrains-windows 👋</h1>
 <p>
   <a href="LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
   </a>
   <a href="https://twitter.com/wangrunlin_" target="_blank">
-    <img alt="Twitter: wangrunlin_" src="https://img.shields.io/twitter/follow/wangrunlin_.svg?style=social" />
+    <img alt="Twitter: wangrunlin_" src="https://img.shields.io/twitter/follow/wangrunlin_?logo=x&style=for-the-badge&color=ffffaf&labelColor=262626" />
   </a>
 </p>
 
